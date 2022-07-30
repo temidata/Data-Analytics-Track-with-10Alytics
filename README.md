@@ -59,3 +59,5 @@ For instance, imagine your client has a profitability problem. Your issue true w
 
 In otherwords solving the Profitability Issue (Profit) every bit of the revenue is solved and every bit of the cost is solved. 
 
+Thank you!
+
