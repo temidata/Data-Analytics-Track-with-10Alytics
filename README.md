@@ -1,5 +1,5 @@
 # Data-Analytics-Track-with-10Alytics Week 1
-This repository entails the lessons covered during the course of learning Data Analytics with 10Alytics E-learning Platform.
+This repository entails the lessons covered during the course of learning Data Analytics with 10Alytics Platform.
 
 # Class 1: Data Analytics 
 In the class, I learnt about the introduction of Data Analytics as a devotion to realizing actionable insights that can be instantly applicable inoder to drive business decisions.
