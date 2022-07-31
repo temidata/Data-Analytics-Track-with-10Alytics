@@ -31,7 +31,7 @@ Explain the impacts of the problem. Describing the “Pain” associated with th
 • Question 4: What is the magnitude?
 How often is the problem observed? Its possible by identifying trends during research, stating the trends. Commenting on the error rate and the frequency and magnitude of the problem.
 
-# The 5 Ways as a Tool In Problem Solving By Suzuki
+# The 5 Why's as a Tool In Problem Solving By Suzuki
 
 Sakichi Toyoda, the Japanese industrialist, inventor, and founder of Toyota Industries, developed the 5 Whys technique in the 1930s. The "go and see" philosophy. This means that its decision making is based on an in-depth understanding of what's happening on the shop floor, rather than on what someone in a boardroom thinks might be happening.
 
