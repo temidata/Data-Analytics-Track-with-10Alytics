@@ -58,7 +58,7 @@ MECE stands for Mutually Exclusive, Collectively Exhaustive. The best issue tree
 For instance, imagine your client has a profitability problem. Your issue true would be mutually exclusive by focusing on revenue and costs, as there are no overlaps between the two. The issue tree is also collectively exhaustive in that there are no other components that need to be added given that Profit = Revenue –Costs.
 
 Inorder to solve the Profit, the revenue issue most be solved which solves 50% of the profitability issue and the cost issue most be solved which is another 50% of the profitability issue.  In essence, the company or organisation should be able to generate revenue and reduce unnecessary cost inorder to increase proditability.
-If exhaustivily the revenue and cost is solved then collectively the profit will increase.
+If exhaustivily the revenue and cost is solved then as a collective the profit will increase.
 In otherwords solving the Profitability Issue (Profit) every bit of the revenue is solved and every bit of the cost is solved. 
 
 Thank you!
